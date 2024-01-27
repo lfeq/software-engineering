@@ -72,13 +72,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-
-# Ignore Third Person Starter Content
-Content/ThirdPersonBP/*
-Content/ThirdPersonBP/Maps/*
-Content/ThirdPersonBP/Meshes/*
-Content/ThirdPersonBP/Textures/*
-Content/ThirdPersonBP/Blueprints/*
-Content/ThirdPerson/*
-Content/StarterContent/*
-Content/Mannequin/*
